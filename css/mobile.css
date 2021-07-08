@@ -16,7 +16,7 @@ main {
 section {
   padding: 3rem;
 }
-.heading {
+h2 {
   font-family: "Big Shoulders Display", cursive;
   text-transform: uppercase;
   color: hsl(0, 0%, 95%);
